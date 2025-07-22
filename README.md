@@ -66,3 +66,8 @@ Install via:
 
 ```bash
 pip install numpy matplotlib scipy
+
+
+
+https://zenodo.org/records/16307410
+Entropy Chains Driven by Geometric Phases in Riemann Zeta Zeros
